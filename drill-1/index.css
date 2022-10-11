@@ -1,0 +1,39 @@
+
+    
+    
+    
+.box3{
+    background-color: black;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    
+    
+}
+
+
+.box1 {
+    background-color: rgb(185, 183, 183);
+    height: 100%;
+    width: 125px;
+    position: fixed;
+    left: 0;
+}
+
+.box2 {
+    background-color:rgb(185, 183, 183);
+    height: 100%;
+    width: 125px;
+    position: fixed;
+    right: 0;
+}
+
+.box4{
+    background-color: rgb(74, 78, 78);
+    height: 125px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+}
+

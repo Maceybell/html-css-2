@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+header{
+    width: 100%
+}
+section{
+    width: 100%
+}
+
+.hasSquare{
+    height: 100px;
+    background-color: rgb(214, 212, 212);
+}
+
+.box{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(133, 133, 233);
+    margin: 10px;
+    position: relative;
+    top:5px;
+    left: 5px;
+}
+.hasText{
+    height: 225px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.text{
+    margin: 40px;
+}
+
+.color1{
+    background-color: rgb(156, 178, 202);
+    height: 150px;
+    
+}
+.color2{
+    background-color: rgb(52, 175, 175);
+    height: 150px;
+
+}
+.color3{
+    background-color: rgb(105, 155, 77);
+    height: 150px;
+
+}
+.color4{
+    background-color: rgb(255, 255, 139);
+    height: 150px;
+
+}

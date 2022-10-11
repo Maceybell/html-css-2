@@ -1,0 +1,80 @@
+
+
+.shapes{
+    height: 200px;
+    background-color: white;
+    border: 3px solid black;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.purpleBox{
+    height: 120px;
+    background-color: purple;
+    width: 40px;
+    display: fixed;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+.greenBox{
+    height: 85%;
+    width: 400px;
+    background-color: green;
+    display: fixed;
+    position: relative;
+    left: 75px;
+    
+}
+
+.circle{
+    height: 175px;
+    width: 175px;
+    background-color: lightblue;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 130px;
+}
+
+.border{
+    height: 300px;
+    background-color: white;
+    border: 3px dotted black;
+    display: flex;
+    width: 100%;
+    justify-content: center;;
+    align-items: center;
+}
+
+.creamBox{
+    box-shadow: 10px 10px 5px black;
+    height: 80%;
+    width: 95%;        
+    background-color: rgb(240, 221, 185);
+    display: fixed;
+    position: relative;
+}
+
+.Hello{
+    height: 300px;
+    width: 600px;
+    box-shadow: 1px 1px 5px 5px gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 400px;
+    
+
+}
+
+.friends{
+    
+    text-align: center;
+    color: purple;
+    font-size: 40px;
+    position: relative;
+    
+}
